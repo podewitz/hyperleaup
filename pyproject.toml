@@ -21,7 +21,7 @@ dependencies = [
     "pyspark",
     "tableauhyperapi",
     "requests",
-    "tableauserverclient",
+    "tableauserverclient>=0.28",
     "urllib3"
 ]
 
